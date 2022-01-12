@@ -1,6 +1,6 @@
 export interface Topping {
   id: number;
-  name: string;
+  label: string;
   price: number;
 }
 
